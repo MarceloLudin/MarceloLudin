@@ -1,25 +1,34 @@
 # Olá! Eu sou Marcelo Ludin 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Braz Cubas**.
 
-Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e bancos de dados, sempre buscando aprender na prática através de projetos e estudos.
+Atualmente estou focado em desenvolver meus conhecimentos em programação, desenvolvimento web e banco de dados, sempre buscando aprender através de estudos e projetos práticos.
 
 ## 💻 Tecnologias e conhecimentos
 
-- 🐍 **Python** — lógica de programação e desenvolvimento de aplicações
-- 🌐 **HTML & CSS** — desenvolvimento e estruturação de páginas web
-- 🗄️ **PostgreSQL / pgAdmin** — criação, relacionamento e manipulação de bancos de dados
-- 🐬 **MySQL / MySQL Workbench** — fundamentos de bancos de dados
-- 🔐 **Cybersecurity** — conhecimentos básicos em Hacking e Pentest
+- 🐍 Python
+- 🌐 HTML
+- 🎨 CSS
+- 🗄️ SQL
+- 🐘 PostgreSQL / pgAdmin
+- 🐬 MySQL / MySQL Workbench
+- 🔧 Git e GitHub
+
+## 🔐 Segurança da Informação
+
+Também tenho interesse em **Segurança da Informação** e já realizei cursos básicos voltados para **Hacking e Pentest**, incluindo conteúdos da **Solyd**.
+
+Meu objetivo é continuar estudando a área e entender cada vez melhor os conceitos de segurança, redes e desenvolvimento seguro.
 
 ## 📚 Atualmente estudando
 
 - Python
+- Estruturas de programação
 - Desenvolvimento Web
 - SQL e Banco de Dados
 - PostgreSQL
-- Estruturas de programação
-- Segurança da Informação
+- Git e GitHub
+- Fundamentos de Segurança da Informação
 
 ## 🛠️ Ferramentas
 
@@ -27,22 +36,40 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvime
 - PostgreSQL
 - pgAdmin
 - MySQL Workbench
-- Git & GitHub
-
-## 🔐 Segurança da Informação
-
-Também venho estudando fundamentos de **Hacking e Pentest**, através de cursos e práticas voltadas para segurança da informação, incluindo conteúdos da **Solyd**.
+- Git
+- GitHub
 
 ## 📂 Projetos
 
-Aqui no meu GitHub você encontrará projetos acadêmicos e projetos desenvolvidos durante meus estudos, colocando em prática conhecimentos de programação, desenvolvimento web e banco de dados.
+Aqui você encontrará projetos acadêmicos e projetos desenvolvidos durante meus estudos.
 
-## 📊 Linguagens
+Entre os projetos estão exercícios e aplicações envolvendo:
 
-As porcentagens de utilização das linguagens são calculadas automaticamente pelo GitHub com base nos códigos presentes nos meus repositórios.
+- Programação em Python
+- Desenvolvimento de páginas com HTML e CSS
+- Modelagem e implementação de bancos de dados
+- Consultas e operações SQL
+- Projetos acadêmicos de Análise e Desenvolvimento de Sistemas
+
+## 📊 Linguagens mais utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLudin&layout=compact&langs_count=8&theme=dark)](https://github.com/MarceloLudin)
+
+> Os dados acima são calculados automaticamente com base nos códigos presentes nos meus repositórios públicos.
+
+## 📈 Estatísticas do GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloLudin&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/MarceloLudin)
+
+## 🎯 Objetivo
+
+Continuar evoluindo como desenvolvedor, adquirindo experiência através de projetos práticos e ampliando meus conhecimentos em **programação, banco de dados, desenvolvimento web e segurança da informação**.
 
 ---
 
-📍 **ADS | Programação | Banco de Dados | Cybersecurity**
+### 📫 GitHub
 
-🚀 Sempre aprendendo e desenvolvendo novos projetos.
+[![GitHub](https://img.shields.io/badge/GitHub-MarceloLudin-181717?style=for-the-badge&logo=github)](https://github.com/MarceloLudin)
+
+**Marcelo Ludin**  
+Análise e Desenvolvimento de Sistemas | Universidade Braz Cubas
